@@ -30,15 +30,15 @@ Pillow Library 10.1.0
   - Open a new powershell terminal (Windows)
   - cd to the folder that you want the virtual environment in
   - run: python -m venv Favicon-Generator-Virtual-Env
-- Update the run-converter.bat file to have the correct virtual environment path
+- Update the run-generator.bat file to have the correct virtual environment path
 
 
 ----------
-2. How to Run the Quiz: 
+2. How to Run the Generator: 
 
 - Save a .png file to the project folder
   * Note: make sure there are no other .png files in the folder
-- Double-click the 'run-converter.bat' file
+- Double-click the 'run-generator.bat' file
 - The favicon will appear in the project folder (of file type .ico)
   * Note: This converter will not resize the image, so make sure the input file has the correct dimensions
 
