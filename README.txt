@@ -1,4 +1,4 @@
-Project Title: Favicon Converter
+Project Title: Favicon Generator
 
 ----------
 Table of Contents: 
