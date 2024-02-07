@@ -2,11 +2,11 @@ Project Title: Favicon Generator
 
 ----------
 Table of Contents: 
-1. Project Description2
+1. Project Description
 2. Dependencies
 3. Setup 
 4. How to Run The Converter
-3. Credits
+5. Credits
 
 
 ----------
@@ -23,7 +23,7 @@ Pillow Library 10.1.0
 
 
 ----------
-1. Setup
+3. Setup
 
 - Download the repository
 - Create a virtual environment with the Pillow (Python Imaging Library) library
@@ -34,16 +34,16 @@ Pillow Library 10.1.0
 
 
 ----------
-2. How to Run the Generator: 
+4. How to Run the Generator: 
 
 - Save a .png file to the project folder
   * Note: make sure there are no other .png files in the folder
 - Double-click the 'run-generator.bat' file
 - The favicon will appear in the project folder (of file type .ico)
-  * Note: This converter will not resize the image, so make sure the input file has the correct dimensions
+  * Note: This converter will not resize the image, so make sure the input file has the correct dimensions (recommended: 32px x 32px)
 
 
 ----------
-3. Credits
+5. Credits
 
 Michelle Flandin
