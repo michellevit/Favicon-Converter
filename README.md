@@ -1,7 +1,7 @@
 # Favicon Generator
 
 
-![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Pillow](https://img.shields.io/badge/Pillow-10.1.0-blue.svg)
 
 
